@@ -1,17 +1,17 @@
 # 👋
 
-## name
+## 🙂 name
 
 emilia *(not real name)*
 
-## gender-pronouns
+## ♀️ gender-pronouns
 
-straight, she/her
+Straight, `she`**/**`her`
 
-## age
+## 🕐 age
 
-14
+**14**
 
-## hobbies
+## 💻 hobbies
 
-JS programming
+JavaScript programming
