@@ -10,8 +10,8 @@ Straight, `she`**/**`her`
 
 ## 🕐 Age
 
-**14**
+14 years old
 
 ## 💻 Hobbies
 
-JavaScript programming
+`JavaScript` programming
